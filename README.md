@@ -5,6 +5,8 @@ Hi! This is my initial project about design system with react, styled-components
 
 I'm improving the css yet and tips to find the best way to do this are welcome =]
 
+Based on my pen [Button Styles with BEM](https://codepen.io/daniloab/pen/KYPmpR)
+
 ## Getting Started
 
 This project use create-react-app
