@@ -59,6 +59,7 @@ const defaultTextProps = `
     letter-spacing: 0.0325em;
     
     &:hover {
+        color: black;
       background: #f3f3f3;
       transition: 0.3s;
     }
