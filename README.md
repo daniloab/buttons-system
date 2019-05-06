@@ -1,5 +1,5 @@
 # Button Design System
-Hi! This is my initial project about design system with react and styled-components.
+Hi! This is my initial project about design system with react, styled-components and react-icons.
 
 ![Button System Exemple](https://i.imgur.com/6HYciSF.png)
 
@@ -20,6 +20,6 @@ $ yarn
 $ yarn start
 ```
 
-## License
+<!-- ## License
 
-MIT License © Danilo Assis
+MIT License © Danilo Assis -->
