@@ -1,7 +1,7 @@
 # Button Design System
 Hi! This is my initial project about design system with react, styled-components and react-icons.
 
-![Button System Exemple](https://i.imgur.com/6HYciSF.png)
+![Button System Exemple](https://i.imgur.com/ZhJPBmz.png)
 
 I'm improving the css yet and tips to find the best way to do this are welcome =]
 

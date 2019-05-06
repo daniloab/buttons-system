@@ -12,9 +12,9 @@ const GlobalStyle = createGlobalStyle`
     body {    
         display: flex;
         justify-content: center;  
-        background: lightgray;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+        height: 100%;
+        
+        background: #000000c2;
         font-family: 'Open Sans', sans-serif !important;
         
         button {

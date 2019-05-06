@@ -2,15 +2,15 @@ import React from 'react'
 import styled from 'styled-components';
 
 import global from '../helpers/global'
-import * as colors from './colors'
+import colors from './colors'
 
 const defaultProps = `
-    color: ${colors.def.primaryColor};
-    background: ${colors.def.backgroundColor};
-    border-color: ${colors.def.borderColor};
+    color: ${colors.default.primaryColor};
+    background: ${colors.default.backgroundColor};
+    border-color: ${colors.default.borderColor};
     
     &:hover {
-      background: ${colors.def.hoverColor};
+      background: ${colors.default.hoverColor};
     }
 `
 
